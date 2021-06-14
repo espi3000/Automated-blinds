@@ -37,3 +37,7 @@ https://github.com/arduino-libraries/Stepper
 
 
 ## WiFi communication
+
+
+## Prototype 1
+ESP32 DevKitc V4 pinout: https://randomnerdtutorials.com/esp32-pinout-reference-gpios/
