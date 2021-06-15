@@ -37,6 +37,9 @@ https://github.com/arduino-libraries/Stepper
 
 
 ## WiFi communication
+https://esphome.io/guides/getting_started_hassio.html
+https://www.home-assistant.io/installation/odroid/
+https://www.home-assistant.io/installation/windows
 
 
 ## Prototype 1
